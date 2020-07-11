@@ -1,0 +1,33 @@
+Variable,Units,Description
+Tree,NA,Unique ID for tree
+Acc_Temp,°C,Acclimation temperature
+Nitrogen,NA,Nitrogen level
+a_Vcmax,umol/m2/s,Exponential cofficient of Vcmax when leaf temperature = 0C
+b_Vcmax,umol/m2/s/C,Exponential cofficient describing the change in Vcmax when leaf temperature = 0C
+c_Vcmax,umol/m2/s/C,Change in shape of Vcmax curve as temperature increases
+a_Vcmax_SE,umol/m2/s,Standard error of parameter a for Vcmax curve
+b_Vcmax_SE,umol/m2/s/C,Standard error of parameter b for Vcmax curve
+c_Vcmax_SE,umol/m2/s/C,Standard error of parameter c for Vcmax curve
+r2_Vcmax,NA,Coefficient of determination for Vcmax curve
+a_Jmax,umol/m2/s,Exponential cofficient of Jmax when leaf temperature = 0C
+b_Jmax,umol/m2/s/C,Exponential cofficient describing the change in Jmax when leaf temperature = 0C
+c_Jmax,umol/m2/s/C,Change in shape of Jmax curve as temperature increases
+a_Jmax_SE,umol/m2/s,Standard error of parameter a for Jmax curve
+b_Jmax_SE,umol/m2/s/C,Standard error of parameter b for Jmax curve
+c_Jmax_SE,umol/m2/s/C,Standard error of parameter c for Jmax curve
+r2_Jmax,NA,Coefficient of determination for Jmax curve
+a_Rd,umol/m2/s,Exponential cofficient of Rd when leaf temperature = 0C
+b_Rd,umol/m2/s/C,Exponential cofficient describing the change in Rd when leaf temperature = 0C
+c_Rd,umol/m2/s/C,Change in shape of Rd curve as temperature increases
+a_Rd_SE,umol/m2/s,Standard error of parameter a for Rd curve
+b_Rd_SE,umol/m2/s/C,Standard error of parameter b for Rd curve
+c_Rd_SE,umol/m2/s/C,Standard error of parameter c for Rd curve
+r2_Rd,NA,Coefficient of determination for Rd curve
+Total_mg,mg,Sample weight
+N_mg,mg,Nitrogen weight
+C_mg,mg,Carbon weight
+N_Percent,%,Nitrogen percentage
+C_Percent,%,Carbon percentage
+CN,NA,Carbon nitrogen ratio
+LMA,g/m2,Leaf mass area
+SLA,m2/g,Specific leaf area

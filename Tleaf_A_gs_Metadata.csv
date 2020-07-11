@@ -1,0 +1,16 @@
+Variable,Units,Description
+Tree,NA,Unique ID for tree
+Acc_Temp,°C,Acclimation temperature
+Leaf_Temp,°C,Target leaf temperature
+Nitrogen,NA,Nitrogen level
+CO2,µmol/mol,Target CO2 level
+Photo,µmol/m2/s,Net photosynthetic rate
+Cond,mol/m2/s,Stomatal conductance
+Total_mg,mg,Sample weight
+N_mg,mg,Nitrogen weight
+C_mg,mg,Carbon weight
+N_Percent,%,Nitrogen percentage
+C_Percent,%,Carbon percentage
+CN,NA,Carbon nitrogen ratio
+LMA,g/m2,Leaf mass area
+SLA,m2/g,Specific leaf area

@@ -1,0 +1,14 @@
+Variable,Units,Description
+Tree,NA,Unique ID for tree
+Acc_Temp,°C,Acclimation temperature
+Leaf_Temp,°C,Target leaf temperature
+Nitrogen,NA,Nitrogen level
+Vcmax,µmol/m2/s,Maximum rate of Rubisco carboxylation at Leaf_Temp
+Vcmax_DW,µmol/m2/s/g,Maximum rate of Rubisco carboxylation at Leaf_Temp per leaf dry weight
+Vcmax_N,µmol/m2/s/g,Maximum rate of Rubisco carboxylation at Leaf_Temp per leaf nitrogen
+Jmax,µmol/m2/s,Maximum rate of electron tranport at Leaf_Temp
+Jmax_DW,µmol/m2/s/g,Maximum rate of electron tranport at Leaf_Temp per leaf dry weight
+Jmax_N,µmol/m2/s/g,Maximum rate of electron tranport at Leaf_Temp per leaf nitrogen
+Rd,µmol/m2/s,Leaf dark respiration at Leaf_Temp
+Rd_DW,µmol/m2/s/g,Leaf dark respiration at Leaf_Temp per leaf dry weight
+Rd_N,µmol/m2/s/g,Leaf dark respiration at Leaf_Temp per leaf nitrogen
