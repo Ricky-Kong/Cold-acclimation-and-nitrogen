@@ -1,2 +1,2 @@
 # Cold-acclimation-and-nitrogen
-Populus balsamifera
+Populus balsamifera - New Phytologist
